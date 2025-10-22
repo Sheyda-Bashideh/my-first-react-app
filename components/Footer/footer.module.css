@@ -1,0 +1,21 @@
+
+ .myfooter{
+   width: 100%;
+    background-color:rgba(128, 128, 128, 0.402);
+    color:rgb(230, 16, 87);
+    border: 2px solid ;
+    border-radius: 3px;
+    justify-content: center ;
+    align-items: center;
+    font-size: 100px;
+    text-align: center;
+    margin-top:450px
+ }
+
+
+ .myfooter:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(219, 62, 88);
+    cursor: pointer;
+    box-shadow:inset 5px 5px 5px 5px rgba(214, 198, 198, 0.377);
+}
